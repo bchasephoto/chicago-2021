@@ -13,6 +13,7 @@ h1
     font-family: sourcesans;
     font-size: 40pt;
     color: #1aab2d;
+    text-align: center;
 }
 
 h2
@@ -27,6 +28,7 @@ h3
     font-family: sourcesans;
     font-size: 20pt;
     color: #1aab2d;
+    text-align: center;
 }
 
 h4
